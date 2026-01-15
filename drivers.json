@@ -1,0 +1,59 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-01-15 21:10:20",
+  "count": 4,
+  "drivers": [
+    {
+      "id": 2,
+      "name": "AMD Adrenalin Edition",
+      "description": "Официальный комплект драйверов и универсальная панель управления для видеокарт AMD Radeon. Позволяет не только всегда иметь актуальные драйверы для игр, но и тонко настраивать графику, производительность, разгон и энергопотребление. Включает встроенные инструменты для записи экрана (ReLive), стриминга и мониторинга частот и температур.",
+      "category": "Видеокарты",
+      "logo": "C:/Users/Vanya/Desktop/UTILHELP PYTHON/ProgramImages/AMD_Adrenalin_Software.png",
+      "status": "Доступно",
+      "keywords": "amd,драйвер,driver,видеокарта,videoadapter",
+      "button_type": "website",
+      "url": "https://www.amd.com/en/support/download/drivers.html",
+      "icon_url": "",
+      "website": ""
+    },
+    {
+      "id": 3,
+      "name": "Intel Driver & Support Assistant",
+      "description": "Автоматический помощник от Intel для поддержки оборудования в актуальном состоянии. Самостоятельно находит драйверы и обновления для ключевых компонентов системы: процессоров, интегрированной графики, Wi-Fi и сетевых адаптеров, чипсетов и твердотельных накопителей Intel. Избавляет от необходимости вручную искать ПО на сайте.",
+      "category": "Процессоры, Видеокарты, Материнские Платы",
+      "logo": "C:/Users/Vanya/Desktop/UTILHELP PYTHON/ProgramImages/Intel_Driver.png",
+      "status": "Доступно",
+      "keywords": "intel,driver,драйвер,видеокарта,устройства,support,videoadapter",
+      "button_type": "download",
+      "url": "https://dsadata.intel.com/installer",
+      "icon_url": "",
+      "website": "https://www.intel.com/content/www/us/en/support/detect.html?_ga=1.114609223.1186142383.1438728658"
+    },
+    {
+      "id": 4,
+      "name": "NVIDIA Driver | NVIDIA APP",
+      "description": "Официальное ПО для видеокарт NVIDIA GeForce. NVIDIA Driver — классический пакет драйверов с поддержкой новых игр и технологий (DLSS, Ray Tracing). NVIDIA App (новое поколение) — это единый центр для установки драйверов, оптимизации игровых настроек одним кликом (NVIDIA GeForce Experience), настройки параметров графики и использования инструментов для записи (ShadowPlay) и стриминга.",
+      "category": "Видеокарты",
+      "logo": "C:/Users/Vanya/Desktop/UTILHELP PYTHON/ProgramImages/NVIDIA_Geforce.png",
+      "status": "Доступно",
+      "keywords": "nvidia,app,driver,videoadaper,драйвер,видеокарта",
+      "button_type": "download",
+      "url": "https://us.download.nvidia.com/nvapp/client/11.0.5.420/NVIDIA_app_v11.0.5.420.exe",
+      "icon_url": "",
+      "website": "https://www.nvidia.com/en-eu/software/nvidia-app/?ysclid=mkd80ccpgp787079450"
+    },
+    {
+      "id": 6,
+      "name": "AMD Ryzen Master",
+      "description": "Продвинутая утилита для тонкой настройки и мониторинга процессоров AMD Ryzen для настольных ПК. Предоставляет полный контроль над системой: позволяет выполнять разгон процессора, памяти, настраивать тайминги и управлять энергопотреблением (Precision Boost Overdrive). Имеет встроенные инструменты для стресс-тестирования и мониторинга в реальном времени частот, напряжений и температур каждого ядра. Предназначена для опытных пользователей и энтузиастов.",
+      "category": "Процессоры",
+      "logo": "C:/Users/Vanya/Desktop/UTILHELP PYTHON/ProgramImages/AMD_Ryzen_Master.png",
+      "status": "Доступно",
+      "keywords": "amd,cpu,амд,ryzen,master",
+      "button_type": "website",
+      "url": "https://www.amd.com/en/products/software/ryzen-master.html",
+      "icon_url": "",
+      "website": ""
+    }
+  ]
+}
