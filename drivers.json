@@ -104,7 +104,7 @@
     },
     {
       "name": "Java Runtime Environment (JRE)",
-      "category": "Системная библиотека",
+      "category": "Системные библиотеки",
       "status": "Доступно",
       "button_type": "download",
       "url": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=252627_99a6cb9582554a09bd4ac60f73f9b8e6",
