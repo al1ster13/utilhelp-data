@@ -11,8 +11,9 @@
       "url": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BE9FF72D4-F7FD-91F3-4761-E18B8F2976F0%7D%26lang%3Dru%26browser%3D4%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe",
       "website": "https://www.google.ru/chrome/?hl=h",
       "logo": "Google_Chrome.png",
-      "keywords": "Браузер,google,chrome,интернет",
-      "description": "Самый популярный в мире браузер от Google. Известен своей высокой скоростью, стабильностью и простым минималистичным дизайном. Имеет огромную библиотеку расширений из Chrome Web Store, что позволяет настроить его под любые задачи. Автоматически синхронизирует закладки, историю и пароли между устройствами."
+      "keywords": "Браузер,google,chrome,интернет,хром,гугл",
+      "description": "Самый популярный в мире браузер от Google. Известен своей высокой скоростью, стабильностью и простым минималистичным дизайном. Имеет огромную библиотеку расширений из Chrome Web Store, что позволяет настроить его под любые задачи. Автоматически синхронизирует закладки, историю и пароли между устройствами.",
+      "description_en": "The world's most popular browser from Google. It is known for its high speed, stability and simple, minimalistic design. It has a huge library of extensions from the Chrome Web Store, which allows you to customize it for any task. Automatically syncs bookmarks, history, and passwords between devices."
     },
     {
       "name": "Opera GX",
@@ -23,7 +24,8 @@
       "website": "https://gaming-opera.com/",
       "logo": "Opera_GX.png",
       "keywords": "Браузер,opera,опера,интернет,геймер",
-      "description": "«Игровой браузер» с уникальными функциями для геймеров и требовательных пользователей. Позволяет вручную ограничивать потребление ОЗУ, ЦПУ и трафика, чтобы браузер не мешал работе игры. Встроенные блокировщик рекламы, VPN, плеер для мессенджеров и панель с игровыми новостями."
+      "description": "«Игровой браузер» с уникальными функциями для геймеров и требовательных пользователей. Позволяет вручную ограничивать потребление ОЗУ, ЦПУ и трафика, чтобы браузер не мешал работе игры. Встроенные блокировщик рекламы, VPN, плеер для мессенджеров и панель с игровыми новостями.",
+      "description_en": "A \"game browser\" with unique features for gamers and demanding users. It allows you to manually limit the consumption of RAM, CPU, and traffic so that the browser does not interfere with the game. Built-in ad blocker, VPN, messenger player and game news panel."
     },
     {
       "name": "Yandex Browser",
@@ -34,29 +36,32 @@
       "website": "https://browser.yandex.ru/c/browser-windows",
       "logo": "Yandex_Browser.png",
       "keywords": "Браузер,yandex,browser,интернет",
-      "description": "Браузер от российского IT-гиганта, ориентированный на удобство и экономию времени. Отличается умной строкой поиска (Алиса), встроенным переводчиком, Turbo-режимом для ускорения на медленных сетях и прямой интеграцией с сервисами Яндекса (Почта, Диск, Карты). Заботится о безопасности с помощью системы Protect."
+      "description": "Браузер от российского IT-гиганта, ориентированный на удобство и экономию времени. Отличается умной строкой поиска (Алиса), встроенным переводчиком, Turbo-режимом для ускорения на медленных сетях и прямой интеграцией с сервисами Яндекса (Почта, Диск, Карты). Заботится о безопасности с помощью системы Protect.",
+      "description_en": "A browser from the Russian IT giant, focused on convenience and saving time. It features a smart search bar (Alice), built-in translator, Turbo mode for acceleration on slow networks, and direct integration with Yandex services (Mail, Disk, Maps). Takes care of security with the help of the Protect system."
     },
     {
       "name": "CrystalDiskInfo",
-      "category": "Системные утилиты",
+      "category": "Системные утилиты, Системный анализатор",
       "status": "Доступно",
       "button_type": "website",
       "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.7.2/CrystalDiskInfo9_7_2.exe/download",
       "website": "https://crystalmark.info/en/",
       "logo": "Crystal_Disk_Info.png",
       "keywords": "Диск,ssd,диагностика,hdd,проверка",
-      "description": "Незаменимая утилита для мониторинга здоровья жестких дисков (HDD) и твердотельных накопителей (SSD). В наглядном виде отображает технические показатели (температуру, количество включений, отработанные часы), а также оценивает общее состояние диска по системе S.M.A.R.T. Помогает предупредить потерю данных."
+      "description": "Незаменимая утилита для мониторинга здоровья жестких дисков (HDD) и твердотельных накопителей (SSD). В наглядном виде отображает технические показатели (температуру, количество включений, отработанные часы), а также оценивает общее состояние диска по системе S.M.A.R.T. Помогает предупредить потерю данных.",
+      "description_en": "An indispensable utility for monitoring the health of hard drives (HDD) and solid-state drives (SSD). It visually displays technical indicators (temperature, number of inclusions, hours worked), and also evaluates the overall condition of the disk using the S.M.A.R.T. system. It helps prevent data loss."
     },
     {
       "name": "qBittorrent",
-      "category": "Загрузки, Системные утилиты",
+      "category": "Загрузки",
       "status": "Доступно",
       "button_type": "download",
       "url": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-5.1.4/qbittorrent_5.1.4_x64_setup.exe?ts=gAAAAABpW7M3AVY0ybYMtfE-oNjZgDPAj3qMt5fpC5A9PQ5UdaMcSmngOlIzCufqIdFoynCWLjSkhrb3VybQ90R3u0CI_poWLg%3D%3D&use_mirror=altushost-swe&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fqbittorrent%2Ffiles%2Fqbittorrent-win32%2Fqbittorrent-5.1.4%2F",
       "website": "https://www.qbittorrent.org/",
       "logo": "QBitTorrent.png",
       "keywords": "Торрент,qbittorrent,скачать,файлы,обменник",
-      "description": "Свободный и открытый клиент для загрузки файлов по протоколу BitTorrent. Предлагает все необходимые функции (ограничение скорости, планировщик, приоритеты) без навязчивой рекламы, в отличие от многих аналогов. Имеет встроенный поиск торрентов и интуитивно понятный интерфейс на русском языке."
+      "description": "Свободный и открытый клиент для загрузки файлов по протоколу BitTorrent. Предлагает все необходимые функции (ограничение скорости, планировщик, приоритеты) без навязчивой рекламы, в отличие от многих аналогов. Имеет встроенный поиск торрентов и интуитивно понятный интерфейс на русском языке.",
+      "description_en": "A free and open client for downloading files over the BitTorrent protocol. It offers all the necessary functions (speed limit, scheduler, priorities) without intrusive advertising, unlike many analogues. It has a built-in torrent search and an intuitive interface in Russian."
     },
     {
       "name": "Rufus",
@@ -67,7 +72,8 @@
       "website": "https://rufus.ie",
       "logo": "Rufus.png",
       "keywords": "rufus,флешка,система,загрузочная флешка,windows,linux",
-      "description": "Простая, но мощная программа для создания загрузочных USB-накопителей. Незаменима при установке операционных систем (Windows, Linux), создании дисков восстановления или работы с низкоуровневым софтом. Работает очень быстро и предлагает больше настроек, чем встроенные инструменты Windows."
+      "description": "Простая, но мощная программа для создания загрузочных USB-накопителей. Незаменима при установке операционных систем (Windows, Linux), создании дисков восстановления или работы с низкоуровневым софтом. Работает очень быстро и предлагает больше настроек, чем встроенные инструменты Windows.",
+      "description_en": "A simple but powerful program for creating bootable USB drives. It is indispensable when installing operating systems (Windows, Linux), creating recovery disks, or working with low-level software. It works very fast and offers more settings than the built-in Windows tools."
     },
     {
       "name": "VLC",
@@ -77,8 +83,9 @@
       "url": "https://mirror.accum.se/mirror/videolan.org/vlc/3.0.23/win64/vlc-3.0.23-win64.exe",
       "website": "https://www.videolan.org/vlc",
       "logo": "VLC.png",
-      "keywords": "Мультимедиа,видео,смотреть видео,видеопроигрыватель",
-      "description": "Универсальный мультимедийный плеер, который воспроизведёт всё: от видеофайлов любого формата до DVD, аудио-CD и сетевых потоков. Не требует установки кодеков. Простой, быстрый и не перегруженный функциями. Есть продвинутые возможности: изменение скорости воспроизведения, фильтры, захват видео."
+      "keywords": "Мультимедиа,видео,смотреть видео,видеопроигрыватель,vlc,влц",
+      "description": "Универсальный мультимедийный плеер, который воспроизведёт всё: от видеофайлов любого формата до DVD, аудио-CD и сетевых потоков. Не требует установки кодеков. Простой, быстрый и не перегруженный функциями. Есть продвинутые возможности: изменение скорости воспроизведения, фильтры, захват видео.",
+      "description_en": "A versatile multimedia player that will play everything from video files of any format to DVDs, audio CDs, and network streams. It does not require the installation of codecs. Simple, fast, and not overloaded with features. There are advanced features: changing the playback speed, filters, video capture."
     },
     {
       "name": "XnView MP",
@@ -88,8 +95,9 @@
       "url": "https://www.xnview.com/download.php?update=1&file=XnViewMP-win-x64.exe",
       "website": "https://www.xnview.com/en/",
       "logo": "XnView_MP.png",
-      "keywords": "Фото,изображения,картинки,фоторедактор,xnviewmp",
-      "description": "Мощный, быстрый и бесплатный просмотрщик и органайзер изображений. Поддерживает более 500 графических форматов. Позволяет не только просматривать, но и выполнять базовое редактирование (изменение размера, конвертация, применение эффектов), создавать слайд-шоу и вести каталог фотографий."
+      "keywords": "Фото,изображения,картинки,фоторедактор,xnviewmp,икснвию",
+      "description": "Мощный, быстрый и бесплатный просмотрщик и органайзер изображений. Поддерживает более 500 графических форматов. Позволяет не только просматривать, но и выполнять базовое редактирование (изменение размера, конвертация, применение эффектов), создавать слайд-шоу и вести каталог фотографий.",
+      "description_en": "Powerful, fast and free image viewer and organizer. Supports more than 500 image formats. It allows you not only to view, but also to perform basic editing (resizing, converting, applying effects), create slide shows and maintain a catalog of photos."
     },
     {
       "name": "Yandex Music",
@@ -99,8 +107,9 @@
       "url": "https://desktop.app.music.yandex.net/stable/Yandex_Music_x64_5.82.0.exe",
       "website": "https://music.yandex.ru/",
       "logo": "Yandex_Music.png",
-      "keywords": "Yandex,music,музыка,книги,подкасты,слушать",
-      "description": "Стриминговый сервис с огромной каталогом треков, подкастов и аудиокниг. Умные алгоритмы создают индивидуальные плейлисты (Моя волна, Дежавю). Есть возможность загружать собственную музыку в облако и слушать её с любых устройств. Качественный звук и регулярное обновление коллекции."
+      "keywords": "Yandex,music,музыка,книги,подкасты,слушать,яндекс",
+      "description": "Стриминговый сервис с огромной каталогом треков, подкастов и аудиокниг. Умные алгоритмы создают индивидуальные плейлисты (Моя волна, Дежавю). Есть возможность загружать собственную музыку в облако и слушать её с любых устройств. Качественный звук и регулярное обновление коллекции.",
+      "description_en": "A streaming service with a huge catalog of tracks, podcasts, and audiobooks. Smart algorithms create individual playlists (My Wave, Deja Vu). You can upload your own music to the cloud and listen to it from any device. High-quality sound and regular collection updates."
     },
     {
       "name": "Opera",
@@ -110,8 +119,9 @@
       "url": "https://net.geo.opera.com/opera/stable/windows?utm_tryagain=yes&utm_source=yandex&utm_medium=ose&utm_campaign=(none)&http_referrer=https%3A%2F%2Fyandex.ru%2F&utm_site=opera_com",
       "website": "https://www.opera.com/",
       "logo": "Opera.png",
-      "keywords": "opera,браузер,browser,инернет,сёрфинг",
-      "description": "Быстрый и функциональный браузер с уникальным набором встроенных инструментов для комфортного серфинга. Оснащён бесплатным VPN, блокировщиком рекламы, боковой панелью с мессенджерами (WhatsApp, Telegram), режимом экономии батареи и встроенным кнопочным AI (Aria). Идеален для пользователей, ценящих удобство «всё в одном»."
+      "keywords": "opera,браузер,browser,инернет,сёрфинг,опера",
+      "description": "Быстрый и функциональный браузер с уникальным набором встроенных инструментов для комфортного серфинга. Оснащён бесплатным VPN, блокировщиком рекламы, боковой панелью с мессенджерами (WhatsApp, Telegram), режимом экономии батареи и встроенным кнопочным AI (Aria). Идеален для пользователей, ценящих удобство «всё в одном».",
+      "description_en": "A fast and functional browser with a unique set of built-in tools for comfortable surfing. It is equipped with a free VPN, an ad blocker, a sidebar with messengers (WhatsApp, Telegram), battery saving mode and built-in push-button AI (Aria). It is ideal for users who appreciate the convenience of \"all in one\"."
     },
     {
       "name": "Brave Browser",
@@ -122,7 +132,8 @@
       "website": "https://brave.com/download/",
       "logo": "Brave_Browser.png",
       "keywords": "brave,brave browser,браузер,интернет,сёрфинг",
-      "description": "Браузер, созданный для приватности и скорости. Блокирует рекламу и трекеры по умолчанию на уровне самого браузера, что значительно ускоряет загрузку страниц и повышает конфиденциальность. Имеет собственную систему приватной монетизации внимания пользователей (BAT). Построен на основе Chromium, поэтому поддерживает все его расширения."
+      "description": "Браузер, созданный для приватности и скорости. Блокирует рекламу и трекеры по умолчанию на уровне самого браузера, что значительно ускоряет загрузку страниц и повышает конфиденциальность. Имеет собственную систему приватной монетизации внимания пользователей (BAT). Построен на основе Chromium, поэтому поддерживает все его расширения.",
+      "description_en": "A browser designed for privacy and speed. It blocks ads and trackers by default at the browser level, which significantly speeds up page loading and increases privacy. It has its own system for private monetization of user attention (BAT). It is based on Chromium, so it supports all its extensions."
     },
     {
       "name": "Vivaldi",
@@ -133,7 +144,8 @@
       "website": "https://vivaldi.com/download/",
       "logo": "Vivaldi.png",
       "keywords": "vivaldi,browser,вивалди,браузер,интернет,сёрфинг",
-      "description": "Максимально настраиваемый браузер для опытных пользователей. Позволяет гибко менять почти каждый элемент интерфейса, имеет мощную систему вкладок (стопки, тайлинг), встроенные заметки и почтовый клиент. Создан бывшими разработчиками Opera и ориентирован на тех, кто хочет полного контроля над своим браузером."
+      "description": "Максимально настраиваемый браузер для опытных пользователей. Позволяет гибко менять почти каждый элемент интерфейса, имеет мощную систему вкладок (стопки, тайлинг), встроенные заметки и почтовый клиент. Создан бывшими разработчиками Opera и ориентирован на тех, кто хочет полного контроля над своим браузером.",
+      "description_en": "The most customizable browser for advanced users. It allows you to flexibly change almost every element of the interface, has a powerful tab system (stacks, tiling), built-in notes and an email client. Created by former Opera developers, it is aimed at those who want full control over their browser."
     },
     {
       "name": "Tor Browser",
@@ -144,7 +156,8 @@
       "website": "https://www-torproject.org/",
       "logo": "Tor_Browser.png",
       "keywords": "tor,bowser,tor browser,браузер,тор,безопасность,интернет,сёрфинг",
-      "description": "Специализированный браузер для анонимности и обхода цензуры. Основан на Firefox и перенаправляет интернет-трафик через распределённую сеть серверов Tor, скрывая ваше местоположение и активность от слежки. Важный инструмент для журналистов, активистов и пользователей, для которых приватность — первостепенна."
+      "description": "Специализированный браузер для анонимности и обхода цензуры. Основан на Firefox и перенаправляет интернет-трафик через распределённую сеть серверов Tor, скрывая ваше местоположение и активность от слежки. Важный инструмент для журналистов, активистов и пользователей, для которых приватность — первостепенна.",
+      "description_en": "A specialized browser for anonymity and circumvention of censorship. It is based on Firefox and redirects Internet traffic through a distributed network of Tor servers, hiding your location and activity from surveillance. An important tool for journalists, activists, and users for whom privacy is paramount."
     },
     {
       "name": "7-Zip",
@@ -155,7 +168,8 @@
       "website": "https://www.7-zip.org/",
       "logo": "7-ZIP.png",
       "keywords": "7zip,zip,зип,севензип,архиватор,архив",
-      "description": "Свободный и открытый архиватор с высокой степенью сжатия. Поддерживает множество форматов (7z, ZIP, RAR, TAR, GZIP и др.). Имеет высокую скорость работы, простой интерфейс и интегрируется в контекстное меню Windows. Формат 7z по умолчанию обеспечивает лучшее сжатие, чем ZIP."
+      "description": "Свободный и открытый архиватор с высокой степенью сжатия. Поддерживает множество форматов (7z, ZIP, RAR, TAR, GZIP и др.). Имеет высокую скорость работы, простой интерфейс и интегрируется в контекстное меню Windows. Формат 7z по умолчанию обеспечивает лучшее сжатие, чем ZIP.",
+      "description_en": "A free and open archiver with a high compression ratio. It supports many formats (7z, ZIP, RAR, TAR, GZIP, etc.). It has a high speed, simple interface and integrates into the Windows context menu. The default 7z format provides better compression than ZIP."
     },
     {
       "name": "WinRAR",
@@ -166,7 +180,8 @@
       "website": "https://www.rarlab.com/",
       "logo": "WinRAR.png",
       "keywords": "winrar,rar,винрар,архиватор,архив",
-      "description": "Классический и мощный архиватор с широкой поддержкой форматов, включая собственный RAR. Славится надёжностью, возможностью восстановления повреждённых архивов и удобной функцией создания многотомных архивов (для разбивки больших файлов на части). Условно-бесплатный."
+      "description": "Классический и мощный архиватор с широкой поддержкой форматов, включая собственный RAR. Славится надёжностью, возможностью восстановления повреждённых архивов и удобной функцией создания многотомных архивов (для разбивки больших файлов на части). Условно-бесплатный.",
+      "description_en": "A classic and powerful archiver with extensive format support, including its own RAR. It is famous for its reliability, the ability to restore damaged archives, and the convenient function of creating multi-volume archives (for splitting large files into parts). Shareware."
     },
     {
       "name": "PeaZIP",
@@ -177,29 +192,32 @@
       "website": "https://peazip.github.io/",
       "logo": "PeaZip.png",
       "keywords": "peazip,zip,пиа,архиватор,архив",
-      "description": "Бесплатный кроссплатформенный архиватор с поддержкой более 200 форматов архивов и изображений. Выделяется продвинутыми функциями шифрования, создания самораспаковывающихся архивов, работой с несколькими архивами одновременно и возможностью проверки контрольных сумм файлов."
+      "description": "Бесплатный кроссплатформенный архиватор с поддержкой более 200 форматов архивов и изображений. Выделяется продвинутыми функциями шифрования, создания самораспаковывающихся архивов, работой с несколькими архивами одновременно и возможностью проверки контрольных сумм файлов.",
+      "description_en": "A free cross-platform archiver with support for over 200 archive and image formats. It stands out for advanced encryption functions, creating self-extracting archives, working with multiple archives simultaneously, and the ability to check checksums of files."
     },
     {
       "name": "Free Download Manager (FDM)",
-      "category": "Загрузки, Системные утилиты",
+      "category": "Загрузки",
       "status": "Доступно",
       "button_type": "download",
       "url": "https://files2.freedownloadmanager.org/6/latest/fdm_x64_setup.exe",
       "website": "https://www.freedownloadmanager.org/",
       "logo": "Free Download Manager.png",
       "keywords": "fdm,manager,torrent,торрент,скачать,файлы,обменник",
-      "description": "Мощный менеджер загрузок с открытым исходным кодом. Ускоряет загрузку файлов, поддерживает докачку, планировщик и загрузку видео с популярных сайтов. Имеет простой интерфейс, портативную версию и позволяет организовать все загрузки в одной программе."
+      "description": "Мощный менеджер загрузок с открытым исходным кодом. Ускоряет загрузку файлов, поддерживает докачку, планировщик и загрузку видео с популярных сайтов. Имеет простой интерфейс, портативную версию и позволяет организовать все загрузки в одной программе.",
+      "description_en": "A powerful open source download manager. Speeds up file downloads, supports download, scheduler, and video downloads from popular sites. It has a simple interface, a portable version, and allows you to organize all downloads in one program."
     },
     {
       "name": "uTorrent",
-      "category": "Загрузки, Системные утилиты",
+      "category": "Загрузки",
       "status": "Доступно",
       "button_type": "download",
       "url": "https://download-hr.utorrent.com/track/stable/endpoint/utorrent/os/riserollout?filename=utorrent_installer.exe",
       "website": "https://www.utorrent.com/",
       "logo": "uTorrent.png",
       "keywords": "utorrent,torrent,торрент,юторрент,скачать,файлы,обменник",
-      "description": "Один из самых лёгких и популярных клиентов для работы с торрентами. Потребляет минимум системных ресурсов, при этом обладает всеми необходимыми функциями: планировщик, рейтинги, RSS-загрузка. Важно загружать с официального сайта, чтобы избежать встроенного рекламного ПО в неофициальных сборках."
+      "description": "Один из самых лёгких и популярных клиентов для работы с торрентами. Потребляет минимум системных ресурсов, при этом обладает всеми необходимыми функциями: планировщик, рейтинги, RSS-загрузка. Важно загружать с официального сайта, чтобы избежать встроенного рекламного ПО в неофициальных сборках.",
+      "description_en": "One of the easiest and most popular clients for working with torrents. Consumes a minimum of system resources, while having all the necessary functions: scheduler, ratings, RSS download. It is important to download from the official website to avoid embedded adware in unofficial builds."
     },
     {
       "name": "LibreOffice",
@@ -210,51 +228,56 @@
       "website": "https://www.libreoffice.org/",
       "logo": "LibreOffice.png",
       "keywords": "libreoffice,office,офис,документы,word,excel,powerpoint,ворд,эксель,поверпоинт",
-      "description": "Полноценный, бесплатный и открытый офисный пакет, альтернатива Microsoft Office. Включает Writer (текстовый процессор), Calc (электронные таблицы), Impress (презентации), Draw (векторная графика) и другие модули. Имеет отличную совместимость с форматами DOCX, XLSX, PPTX и поддерживает экспорт в PDF."
+      "description": "Полноценный, бесплатный и открытый офисный пакет, альтернатива Microsoft Office. Включает Writer (текстовый процессор), Calc (электронные таблицы), Impress (презентации), Draw (векторная графика) и другие модули. Имеет отличную совместимость с форматами DOCX, XLSX, PPTX и поддерживает экспорт в PDF.",
+      "description_en": "A full-fledged, free and open office suite, an alternative to Microsoft Office. It includes Writer (word processor), Calc (spreadsheets), Impress (presentations), Draw (vector graphics) and other modules. It has excellent compatibility with DOCX, XLSX, and PPTX formats and supports export to PDF."
     },
     {
       "name": "Notepad++",
-      "category": "Офис",
+      "category": "Офис, Разработка",
       "status": "Доступно",
       "button_type": "download",
       "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9/npp.8.9.Installer.x64.exe",
       "website": "https://notepad-plus-plus.org/",
       "logo": "notepad++.png",
       "keywords": "notepad++,notepad,блокнот++,блокнот,редактор",
-      "description": "Свободный текстовый редактор и редактор исходного кода для Windows. Незаменим для программистов и всех, кто работает с текстами. Поддерживает подсветку синтаксиса для сотен языков, работу с вкладками, мощный поиск и замену, плагины и макросы. Значительно мощнее стандартного Блокнота."
+      "description": "Свободный текстовый редактор и редактор исходного кода для Windows. Незаменим для программистов и всех, кто работает с текстами. Поддерживает подсветку синтаксиса для сотен языков, работу с вкладками, мощный поиск и замену, плагины и макросы. Значительно мощнее стандартного Блокнота.",
+      "description_en": "A free text editor and source code editor for Windows. It is indispensable for programmers and anyone who works with texts. It supports syntax highlighting for hundreds of languages, tabbing, powerful search and replace, plug-ins and macros. Much more powerful than a standard Notepad."
     },
     {
       "name": "Visual Studio Code",
-      "category": "Разработка, Системные утилиты",
+      "category": "Разработка",
       "status": "Доступно",
       "button_type": "download",
       "url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
       "website": "https://code.visualstudio.com/",
       "logo": "Visual_Studio_Code.png",
       "keywords": "visual studio code,visual,code,код,визуал студио,программирование",
-      "description": "Лёгкий, но невероятно мощный бесплатный редактор кода от Microsoft. Поддерживает все популярные языки программирования через расширения, имеет встроенный отладчик, терминал, систему контроля версий Git и огромный магазин дополнений. Фактический стандарт для современной веб- и кросс-платформенной разработки."
+      "description": "Лёгкий, но невероятно мощный бесплатный редактор кода от Microsoft. Поддерживает все популярные языки программирования через расширения, имеет встроенный отладчик, терминал, систему контроля версий Git и огромный магазин дополнений. Фактический стандарт для современной веб- и кросс-платформенной разработки.",
+      "description_en": "A lightweight but incredibly powerful free code editor from Microsoft. It supports all popular programming languages through extensions, has a built-in debugger, terminal, Git version control system and a huge add-on store. The de facto standard for modern web and cross-platform development."
     },
     {
       "name": "AIMP",
-      "category": "Медиа, Системные утилиты",
+      "category": "Медиа",
       "status": "Доступно",
       "button_type": "download",
       "url": "https://www.aimp.ru/?do=download.file&id=3",
       "website": "https://www.aimp.ru/",
       "logo": "AIMP.png",
       "keywords": "AIMP,аимп,музыка,аудио,слушать,music,audio",
-      "description": "Популярный бесплатный аудиоплеер для Windows с качественным звуковым движком и минималистичным интерфейсом. Поддерживает множество форматов, работу с плейлистами, имеет 18-полосный эквалайзер, конвертер аудио, запись звука с любых источников и обширные возможности кастомизации скинами."
+      "description": "Популярный бесплатный аудиоплеер для Windows с качественным звуковым движком и минималистичным интерфейсом. Поддерживает множество форматов, работу с плейлистами, имеет 18-полосный эквалайзер, конвертер аудио, запись звука с любых источников и обширные возможности кастомизации скинами.",
+      "description_en": "A popular free audio player for Windows with a high-quality sound engine and a minimalistic interface. It supports many formats, working with playlists, has an 18-band equalizer, an audio converter, audio recording from any source, and extensive customization options with skins."
     },
     {
       "name": "foobar2000",
-      "category": "Медиа, Системные утилиты",
+      "category": "Медиа",
       "status": "Доступно",
       "button_type": "download",
       "url": "https://www.foobar2000.org/downloads/foobar2000-x64_v2.25.5.exe",
       "website": "https://www.foobar2000.org/",
       "logo": "Foobar2000.png",
       "keywords": "foobar200,foobar,фубар,музыка,аудио,music,audio,слушать",
-      "description": "Высоконастраиваемый аудиоплеер для истинных ценителей качества звука и минимализма. Известен модульной архитектурой, низкой нагрузкой на систему и поддержкой всех мыслимых аудиоформатов без потери качества (бит-в-бит вывод). Интерфейс можно собрать «с нуля» под свои нужды."
+      "description": "Высоконастраиваемый аудиоплеер для истинных ценителей качества звука и минимализма. Известен модульной архитектурой, низкой нагрузкой на систему и поддержкой всех мыслимых аудиоформатов без потери качества (бит-в-бит вывод). Интерфейс можно собрать «с нуля» под свои нужды.",
+      "description_en": "Highly customizable audio player for true connoisseurs of sound quality and minimalism. It is known for its modular architecture, low system load, and support for all imaginable audio formats without loss of quality (bit-to-bit output). The interface can be built \"from scratch\" to suit your needs."
     }
   ]
 }

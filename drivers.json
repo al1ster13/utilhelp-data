@@ -12,7 +12,8 @@
       "website": "",
       "logo": "AMD_Adrenalin_Software.png",
       "keywords": "amd,драйвер,driver,видеокарта,videoadapter",
-      "description": "Официальный комплект драйверов и универсальная панель управления для видеокарт AMD Radeon. Позволяет не только всегда иметь актуальные драйверы для игр, но и тонко настраивать графику, производительность, разгон и энергопотребление. Включает встроенные инструменты для записи экрана (ReLive), стриминга и мониторинга частот и температур."
+      "description": "Официальный комплект драйверов и универсальная панель управления для видеокарт AMD Radeon. Позволяет не только всегда иметь актуальные драйверы для игр, но и тонко настраивать графику, производительность, разгон и энергопотребление. Включает встроенные инструменты для записи экрана (ReLive), стриминга и мониторинга частот и температур.",
+      "description_en": "The official driver kit and the universal control panel for AMD Radeon graphics cards. It allows you to not only always have up-to-date drivers for games, but also fine-tune graphics, performance, overclocking, and power consumption. It includes built-in tools for screen recording (ReLive), streaming, and monitoring frequencies and temperatures."
     },
     {
       "name": "Intel Driver & Support Assistant",
@@ -23,7 +24,8 @@
       "website": "https://www.intel.com/content/www/us/en/support/detect.html?_ga=1.114609223.1186142383.1438728658",
       "logo": "Intel_Driver.png",
       "keywords": "intel,driver,драйвер,cpu,gpu,motherboard,материнская плата,видеокарта,процессор",
-      "description": "Автоматический помощник от Intel для поддержки оборудования в актуальном состоянии. Самостоятельно находит драйверы и обновления для ключевых компонентов системы: процессоров, интегрированной графики, Wi-Fi и сетевых адаптеров, чипсетов и твердотельных накопителей Intel. Избавляет от необходимости вручную искать ПО на сайте."
+      "description": "Автоматический помощник от Intel для поддержки оборудования в актуальном состоянии. Самостоятельно находит драйверы и обновления для ключевых компонентов системы: процессоров, интегрированной графики, Wi-Fi и сетевых адаптеров, чипсетов и твердотельных накопителей Intel. Избавляет от необходимости вручную искать ПО на сайте.",
+      "description_en": "An automatic assistant from Intel to keep the hardware up to date. It independently finds drivers and updates for key system components: processors, integrated graphics, Wi-Fi and network adapters, chipsets and Intel solid-state drives. Eliminates the need to manually search for software on the site."
     },
     {
       "name": "NVIDIA Driver | NVIDIA APP",
@@ -34,7 +36,8 @@
       "website": "https://www.nvidia.com/en-eu/software/nvidia-app/?ysclid=mkd80ccpgp787079450",
       "logo": "NVIDIA_Geforce.png",
       "keywords": "nvidia,app,driver,videoadaper,драйвер,видеокарта",
-      "description": "Официальное ПО для видеокарт NVIDIA GeForce. NVIDIA Driver — классический пакет драйверов с поддержкой новых игр и технологий (DLSS, Ray Tracing). NVIDIA App (новое поколение) — это единый центр для установки драйверов, оптимизации игровых настроек одним кликом (NVIDIA GeForce Experience), настройки параметров графики и использования инструментов для записи (ShadowPlay) и стриминга."
+      "description": "Официальное ПО для видеокарт NVIDIA GeForce. NVIDIA Driver — классический пакет драйверов с поддержкой новых игр и технологий (DLSS, Ray Tracing). NVIDIA App (новое поколение) — это единый центр для установки драйверов, оптимизации игровых настроек одним кликом (NVIDIA GeForce Experience), настройки параметров графики и использования инструментов для записи (ShadowPlay) и стриминга.",
+      "description_en": "The official software for NVIDIA GeForce graphics cards. NVIDIA Driver is a classic driver package with support for new games and technologies (DLSS, Ray Tracing). NVIDIA App (new generation) is a single center for installing drivers, optimizing game settings with one click (NVIDIA GeForce Experience), configuring graphics settings and using tools for recording (ShadowPlay) and streaming."
     },
     {
       "name": "AMD Ryzen Master",
@@ -45,7 +48,8 @@
       "website": "",
       "logo": "AMD_Ryzen_Master.png",
       "keywords": "amd,cpu,амд,ryzen,master",
-      "description": "Продвинутая утилита для тонкой настройки и мониторинга процессоров AMD Ryzen для настольных ПК. Предоставляет полный контроль над системой: позволяет выполнять разгон процессора, памяти, настраивать тайминги и управлять энергопотреблением (Precision Boost Overdrive). Имеет встроенные инструменты для стресс-тестирования и мониторинга в реальном времени частот, напряжений и температур каждого ядра. Предназначена для опытных пользователей и энтузиастов."
+      "description": "Продвинутая утилита для тонкой настройки и мониторинга процессоров AMD Ryzen для настольных ПК. Предоставляет полный контроль над системой: позволяет выполнять разгон процессора, памяти, настраивать тайминги и управлять энергопотреблением (Precision Boost Overdrive). Имеет встроенные инструменты для стресс-тестирования и мониторинга в реальном времени частот, напряжений и температур каждого ядра. Предназначена для опытных пользователей и энтузиастов.",
+      "description_en": "An advanced utility for fine-tuning and monitoring AMD Ryzen processors for desktop PCs. It provides full control over the system: it allows you to overclock the processor, memory, adjust timings, and manage power consumption (Precision Boost Overdrive). It has built-in tools for stress testing and real-time monitoring of frequencies, voltages and temperatures of each core. It is intended for experienced users and enthusiasts."
     },
     {
       "name": "Visual C++ Redistributable",
@@ -56,7 +60,8 @@
       "website": "https://learn.microsoft.com/ru-ru/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version",
       "logo": "VisualC++.png",
       "keywords": "visualc++,драйвер,visual,библиотека",
-      "description": "Набор библиотек среды выполнения Microsoft, необходимый для запуска приложений, написанных на языке C++ в среде Visual Studio. Многие игры и программы требуют установки этих пакетов (разных версий: 2005, 2008, 2010, 2012, 2013, 2015-2022) для своей корректной работы. Устанавливаются автоматически с программами, но иногда требуют ручной установки."
+      "description": "Набор библиотек среды выполнения Microsoft, необходимый для запуска приложений, написанных на языке C++ в среде Visual Studio. Многие игры и программы требуют установки этих пакетов (разных версий: 2005, 2008, 2010, 2012, 2013, 2015-2022) для своей корректной работы. Устанавливаются автоматически с программами, но иногда требуют ручной установки.",
+      "description_en": "A set of Microsoft runtime libraries required to run applications written in C++ in Visual Studio. Many games and programs require the installation of these packages (different versions: 2005, 2008, 2010, 2012, 2013, 2015-2022) for their correct work. They are installed automatically with programs, but sometimes require manual installation."
     },
     {
       "name": "Microsoft .NET Framework",
@@ -67,7 +72,8 @@
       "website": "https://dotnet.microsoft.com/en-us/download/dotnet-framework",
       "logo": ".NET Framework.png",
       "keywords": "драйвер,driver,framework,библиотека,.net,microsoft",
-      "description": "Обязательная программная платформа от Microsoft, необходимая для запуска большинства современных приложений и игр, написанных для Windows. Предоставляет программистам готовые библиотеки кода, что ускоряет разработку. Пользователю нужно просто иметь актуальную версию, чтобы программы работали стабильно и без ошибок."
+      "description": "Обязательная программная платформа от Microsoft, необходимая для запуска большинства современных приложений и игр, написанных для Windows. Предоставляет программистам готовые библиотеки кода, что ускоряет разработку. Пользователю нужно просто иметь актуальную версию, чтобы программы работали стабильно и без ошибок.",
+      "description_en": "A must-have software platform from Microsoft, necessary to run most modern applications and games written for Windows. Provides programmers with ready-made code libraries, which speeds up development. The user just needs to have an up-to-date version so that the programs work stably and error-free."
     },
     {
       "name": "DirectX Runtime",
@@ -78,7 +84,8 @@
       "website": "https://www.microsoft.com/ru-RU/download/details.aspx?id=17718",
       "logo": "DirectX.png",
       "keywords": "directx,direct,driver,драйвер,библиотека,x",
-      "description": "Набор технологий, критически важных для мультимедийных приложений, особенно для игр под Windows. Отвечает за обработку и ускорение графики, 3D-рендеринга, видео и звука. Игры часто требуют определённую версию DirectX. Установка последнего дистрибутива гарантирует наличие всех нужных библиотек для корректного отображения графики."
+      "description": "Набор технологий, критически важных для мультимедийных приложений, особенно для игр под Windows. Отвечает за обработку и ускорение графики, 3D-рендеринга, видео и звука. Игры часто требуют определённую версию DirectX. Установка последнего дистрибутива гарантирует наличие всех нужных библиотек для корректного отображения графики.",
+      "description_en": "A set of technologies that are critical for multimedia applications, especially for Windows games. Responsible for processing and accelerating graphics, 3D rendering, video and sound. Games often require a specific version of DirectX. Installing the latest distribution ensures that all the necessary libraries are available for the correct display of graphics."
     },
     {
       "name": "OpenAL",
@@ -89,7 +96,8 @@
       "website": "https://www.openal.org/",
       "logo": "OpenAL.png",
       "keywords": "openal,al,audio,driver,аудио,драйвер,библиотека",
-      "description": "Кросс-платформенная аудиобиблиотека, аналогичная DirectX для звука. Используется во многих играх и аудиоприложениях для создания пространственного 3D-звука и сложных аудиоэффектов. Обеспечивает реалистичное позиционирование звуков в игровом пространстве (например, чтобы слышать шаги за спиной)."
+      "description": "Кросс-платформенная аудиобиблиотека, аналогичная DirectX для звука. Используется во многих играх и аудиоприложениях для создания пространственного 3D-звука и сложных аудиоэффектов. Обеспечивает реалистичное позиционирование звуков в игровом пространстве (например, чтобы слышать шаги за спиной).",
+      "description_en": "A cross-platform audio library similar to DirectX for audio. It is used in many games and audio applications to create 3D spatial sound and complex audio effects. Provides realistic positioning of sounds in the game space (for example, to hear footsteps behind your back)."
     },
     {
       "name": "NVIDIA PhysX",
@@ -100,7 +108,8 @@
       "website": "https://www.nvidia.com/en-us/drivers/physx/physx-9-19-0218-driver/",
       "logo": "PhysX.png",
       "keywords": "physx,x,phys,драйвер,driver,библиотека",
-      "description": "Физический движок (система расчёта физики), разработанный NVIDIA. Моделирует реалистичное поведение объектов в играх: разрушение, одежда, жидкости, дым и динамические взаимодействия. Хотя он оптимизирован для видеокарт NVIDIA, для работы игр, его использующих, необходима установка этого системного компонента на любом ПК."
+      "description": "Физический движок (система расчёта физики), разработанный NVIDIA. Моделирует реалистичное поведение объектов в играх: разрушение, одежда, жидкости, дым и динамические взаимодействия. Хотя он оптимизирован для видеокарт NVIDIA, для работы игр, его использующих, необходима установка этого системного компонента на любом ПК.",
+      "description_en": "A physics engine (physics calculation system) developed by NVIDIA. Simulates realistic object behavior in games: destruction, clothing, liquids, smoke, and dynamic interactions. Although it is optimized for NVIDIA graphics cards, it is necessary to install this system component on any PC in order for games using it to work."
     },
     {
       "name": "Java Runtime Environment (JRE)",
@@ -111,7 +120,8 @@
       "website": "https://www.java.com/ru/",
       "logo": "Java.png",
       "keywords": "java,jre,ява,джава,драйвер,библиотека,драйвер",
-      "description": "Виртуальная машина, позволяющая запускать приложения, написанные на языке Java. Эти приложения являются кроссплатформенными (работают на Windows, macOS, Linux). JRE необходима для работы некоторых клиентов онлайн-банков, корпоративного ПО, веб-приложений, игр вроде Minecraft и множества специализированных программ."
+      "description": "Виртуальная машина, позволяющая запускать приложения, написанные на языке Java. Эти приложения являются кроссплатформенными (работают на Windows, macOS, Linux). JRE необходима для работы некоторых клиентов онлайн-банков, корпоративного ПО, веб-приложений, игр вроде Minecraft и множества специализированных программ.",
+      "description_en": "A virtual machine that allows you to run applications written in Java. These applications are cross-platform (run on Windows, macOS, Linux). JRE is necessary for some online banking clients, enterprise software, web applications, games like Minecraft, and many specialized programs."
     }
   ]
 }
